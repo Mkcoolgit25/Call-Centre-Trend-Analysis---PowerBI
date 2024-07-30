@@ -1,4 +1,6 @@
-# Overview
+<h1 align="center">Call Centre Trend Analysis</h1>
+
+### Overview
 For this project, I'll play the role of Digital Accelerator hired by a Manager of a Call Centre to identify trends &amp; get transparent Insights from the data of the Call Centre. I've been tasked with sharing a report visualizing the data in clear &amp; precise manner that focuses on accurate overview of long-term trends in customer &amp; agent's behavior.
 <br><br>
 ### Business Requirements:-
@@ -23,6 +25,7 @@ Upon completion of the Data Transformation, I proceeded with Data Visualizations
 
 There are 3 Slicers for this report which are Filter by Topic, Agents & Months along with a Clear All Slicer button.
 <br><br>
+
 ### INSIGHTS:-
 The Key Performing Indicators(KPIs) for the Call Centre Trends are :- Total Calls - 5000, Calls Answered - 4054, Calls Abandoned - 946, Agents - 8, Overall Customer Satisfaction - 49.90%. The KPIs for the Agent's Performance Analysis are :- Positive Ratings -2023, Negative Ratings - 813, Topics - 5 & Calls Resolved - 3646. The Key Performance Indicator metrics is visualized by using CARD Visual.
 <br><br>
@@ -43,5 +46,6 @@ Visuals in Agent's Performance Analysis:-<br>
 * A Stacked column chart visual that shows the average speed of calls answered for different Agents. Agent Diane had the least average speed of call answered of 52.45 seconds while Agent Joe had the highest average average speed of call answered at 57.94 seconds
 * A Table visual that indicates the overall Agent's performance on different metrics such as Total Calls made, Calls Answered, Calls Abandoned, Calls Resolved, Calls Unresolved, Number of Positive, Neutral & Negative Ratings & the Overall Customer's Satisfaction Rating for each of Agents.
 <br><br>
+
 ### Conclusion:-
 The Call Centre Trend Analysis Report provides an in-depth analysis & INSIGHTS of the data of the Call Centre that enables the Manager of the Call Centre & other stakeholders to understand the Agent's & Customer's behavior & make necessary data driven decisions to improve their operations & come-up with better strategy.
